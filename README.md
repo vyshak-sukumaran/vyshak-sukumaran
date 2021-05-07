@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vyshak-sukumaran
 - 👀 I’m interested in doing stuffs with python
 - 🌱 I’m currently learning machine learning and also django framework
-- 💞️ I’m looking to collaborate on react.js
 - 📫 How to reach me for what?
 
 <!---
