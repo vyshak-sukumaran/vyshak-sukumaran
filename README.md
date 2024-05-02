@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vyshak-sukumaran
-- 👀 I’m interested in doing stuffs with python
-- 🌱 I’m currently working as a fullstack web developer with Django and Reactjs as my top priority.
+- 👀 I’m a software engineer currently interested in building things on the web.
+- 🌱 I’m proficient in the Javascript ecosystem and I'm a frontend biased full-stack developer.
 - 📫 How to reach me for what?
 
 <!---
