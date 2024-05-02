@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vyshak-sukumaran
 - 👀 I’m a software engineer currently interested in building things on the web.
-- 🌱 I’m proficient in the Javascript ecosystem and I'm a frontend biased full-stack developer.
+- 🌱 I'm a frontend biased full-stack developer proficient in the Javascript ecosystem with expertise in Go, C# and Python.
 - 📫 How to reach me for what?
 
 <!---
